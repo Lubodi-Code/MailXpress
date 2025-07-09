@@ -1,7 +1,7 @@
 <script setup>
-
+import MassMailer from './components/MassMailer.vue'
 </script>
 
 <template>
-  <h1 class="text-3xl font-bold">titulo con tailwind</h1>
+  <MassMailer />
 </template>
